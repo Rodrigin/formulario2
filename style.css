@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.div{
+    width: 280px;
+    height: 280px;
+    background-color: aqua;
+    margin-left: 490px;
+    margin-top: 20px;
+}
+
+.info{
+    margin-top: 10px;
+}
+
+#botao{
+    background-color: white;
+    width: 50px;
+    
+}

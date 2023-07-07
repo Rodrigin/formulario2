@@ -1,0 +1,17 @@
+div{
+    display: block;
+    width: 170px;
+    height: 100px;
+    margin-left: 500px;
+    border: 1px solid red;
+}
+
+#login{
+    width: 170px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#usuario{
+    margin-top: 20px;
+}

@@ -1,17 +1,76 @@
-div{
-    display: block;
-    width: 170px;
-    height: 100px;
-    margin-left: 500px;
-    border: 1px solid red;
+*{
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#login{
+div{
+    display: block;
+    width: 193px;
+    height: 220px;
+    margin-left: 500px;
+    float: left;
+    margin-top: 20px;
+    background-color: #801A14;
+}
+
+#titulo{
     width: 170px;
+    height: 40px;
+    display: block;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+#submit{
+    width: 173px;
     height: 30px;
     margin-top: 10px;
+    background-color: #805654;
+    border: none;
+    margin-left: 10px;
 }
 
 #usuario{
     margin-top: 20px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+#Usuario{
+    border-bottom: 1px solid #FF7C75;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 10px;
+    background-color: #801A14;
+}
+
+#senha{
+    border-bottom: 1px solid #FF7C75;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 10px;
+    background-color: #801A14;
+}
+
+h1{
+    text-align: center;
+}
+
+#Senha{
+    margin-left: 10px;
+    display: block;
+    width: 50px;
+    height: 20px;
+    padding-top: 10px;
+}
+
+#esqueceu{
+    font-size: 15px;
+    display: block;
+    width: 140px;
+    height: 25px;
+    margin-left: 30px;
+    color: black;
 }
